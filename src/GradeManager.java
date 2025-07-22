@@ -38,7 +38,6 @@ public class GradeManager {
         }
 
     }
-    
 
 
     // Method to find students who need to retake exam
